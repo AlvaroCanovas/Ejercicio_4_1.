@@ -65,3 +65,4 @@ public class AleatorioEmple {
 	}// fin crear
 
 }// fin class
+
